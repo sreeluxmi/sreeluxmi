@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python Django ,Django Rest....**
 
-- 📫 How to reach me **sriluxmisali@gmail.com**
+- Email -**sriluxmisali@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
