@@ -1,5 +1,8 @@
 # 💫
- Hey there,<br>👩‍💻 I’m a Web developer from India.<br><br>I am into Coding👩‍💻 Drawing 🎨✏️ Reading 📔 Movies 🍿Music 🎧
+ Hey there,<br>👩‍💻 I’m a Web developer from India.<br>
+ Now I am learning Django and related stuffs.
+ 
+ <br><br>I am into Coding👩‍💻 Drawing 🎨✏️ Reading 📔 Movies 🍿Music 🎧
 
 
 ## 🌐 Socials:
