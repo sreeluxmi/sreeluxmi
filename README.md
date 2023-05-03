@@ -5,7 +5,8 @@
  <br><br>I am into Coding👩‍💻 Drawing 🎨✏️ Reading 📔 Movies 🍿Music 🎧
 
 
-## 🌐 Socials:
+## 🌐 Contact me:
+E-mail : <a href=mail:sriluxmisali@gmail.com>sriluxmisali@gmail.com</a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/sreelakshmi-sali) 
 
 # 💻 Tech Stack:
