@@ -1,12 +1,13 @@
 # 💫
  Hey there,<br>👩‍💻 I’m a Web developer from India.<br>
- Now I am learning Django and related stuffs.
+ 🌱 I’m currently Django and related stuffs.
  
  <br><br>I am into Coding👩‍💻 Drawing 🎨✏️ Reading 📔 Movies 🍿Music 🎧
 
 
 ## 🌐 Contact me:
-E-mail : <a href=mail:sriluxmisali@gmail.com>sriluxmisali@gmail.com</a>
+E-mail : <a href=mail:sriluxmisali@gmail.com>sriluxmisali@gmail.com</a><br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/sreelakshmi-sali) 
 
 # 💻 Tech Stack:
