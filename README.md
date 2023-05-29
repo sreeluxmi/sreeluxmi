@@ -1,6 +1,5 @@
 #  Hey there,💫
  <br>👩‍💻 I’m a Web developer from India.<br>
- 🌱 I’m currently learing Django and related stuffs.
  
  <br><br>I am into Coding👩‍💻 Drawing 🎨✏️ Reading 📔 Movies 🍿Music 🎧
 
