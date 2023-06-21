@@ -3,8 +3,6 @@
  
  <br><br>I am into Coding👩‍💻 Drawing 🎨✏️ Reading 📔 Movies 🍿Music 🎧
 
-
-##  Contact me:
 E-mail : <a href=mailto:sriluxmisali@gmail.com>sriluxmisali@gmail.com</a><br>
 
 
