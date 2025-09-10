@@ -9,5 +9,9 @@ I solve problems, and outside the screen I (rarely) read, sketch a little, enjoy
 - 💤 repos in progress (because not every idea deserves production).
 - 🍕 maybe something fun & useless
 
+  ## 📫 Contact
+- Email: [siluxmisali@gmail.com](mailto:siluxmisali@gmail.com)
+
 ## fun fact
 You won’t see every square green on my GitHub graph.
+
