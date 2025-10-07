@@ -1,7 +1,7 @@
- 👋 hey yooo
+hey yooo
 
 I write code. Mostly Python/Django.   
-I solve problems, and outside the screen I (rarely) read, sketch a little, enjoy good food, and just live, occasionally pretending to be an adult.
+I solve problems, and outside the screen I just live, occasionally pretending to be an adult.
 
 ## what you’ll find here
 - 🛠️ APIs and backend systems I’ve worked on.
@@ -10,8 +10,4 @@ I solve problems, and outside the screen I (rarely) read, sketch a little, enjoy
 - 🍕 maybe something fun & useless
 
   ## 📫 Contact
-- Email: [siluxmisali@gmail.com](mailto:siluxmisali@gmail.com)
-
-## fun fact
-You won’t see every square green on my GitHub graph.
-
+Email: [siluxmisali@gmail.com](mailto:siluxmisali@gmail.com)
